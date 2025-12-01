@@ -1,1 +1,4 @@
-dsf
+Authorization: Bearer {!$CustomMetadata.OpenAI_Setting.API_Key} 
+
+https://github.com/sgurumallappa/docs/edit/main/Test
+
